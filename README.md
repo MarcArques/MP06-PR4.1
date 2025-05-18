@@ -1,7 +1,6 @@
 # Plantilla projecte Java amb Maven DAM2-MP06 #
 
-**![Maven Workflow](https://github.com/MarcArques/MP06-UF4-GitHubActions/actions/workflows/maven.yml/badge.svg)**
-
+[![Java CI with Maven](https://github.com/AdrianCasado-IETI/M6-PR4.1/actions/workflows/maven.yml/badge.svg)](https://github.com/AdrianCasado-IETI/M6-PR4.1/actions/workflows/maven.yml)
 ## Arrencada ràpida ##
 Execució ràpida dels diferents exemples i resolusions de problemes
 
